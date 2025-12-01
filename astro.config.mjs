@@ -6,6 +6,7 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://jeeten-dhall.github.io/jeeten-dhall',
+	site: 'https://jeeten-dhall.github.io',
 	integrations: [mdx(), sitemap()],
+	base: '/jeeten-dhall',
 });
