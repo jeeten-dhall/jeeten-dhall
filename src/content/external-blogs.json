@@ -4,13 +4,13 @@
     "url": "https://jeeten-dhall.github.io/algorithms/blog/first-post/",
     "date": "2024-12-01",
     "category": "Algorithms",
-	"heroImage": "/jeeten-dhall/src/assets/blog-placeholder-4.jpg"
+	"heroImage": "/jeeten-dhall/external-blogs/blog-placeholder-4.jpg"
   },
   {
     "title": "Caching Strategies",
     "url": "https://jeeten-dhall.github.io/system-design/blog/first-post/",
     "date": "2024-11-14",
     "category": "System Design",
-	"heroImage": "/jeeten-dhall/src/assets/blog-placeholder-3.jpg"
+	"heroImage": "/jeeten-dhall/external-blogs/blog-placeholder-3.jpg"
   }
 ]
